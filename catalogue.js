@@ -10,7 +10,8 @@ window.MF_DATA = {
     },
     {
       "title": "Lawdy",
-      "file": "media/Lawdy.wav"
+      "file": "media/Lawdy.mp3"
+
     },
     {
       "title": "ny new 2024",
