@@ -11,11 +11,14 @@ window.MF_DATA = {
     {
       "title": "Lawdy",
       "file": "media/Lawdy.mp3"
-
     },
     {
       "title": "ny new 2024",
       "file": "media/ny_new_2024.wav"
+    },
+    {
+      "title": "revolt",
+      "file": "media/mass_sefri_dree.mp3"
     }
   ],
   "clips": [],
