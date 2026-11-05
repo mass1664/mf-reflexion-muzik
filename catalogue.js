@@ -37,7 +37,7 @@ window.MF_DATA = {
     },
     {
       "title": "vidéo 2",
-      "file": "media/lawdy_1_compresse.mp4"
+      "file": "media/lawdy-compatible_2.mp4"
     }
   ],
   "bio": "",
