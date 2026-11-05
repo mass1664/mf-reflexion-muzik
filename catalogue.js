@@ -30,7 +30,16 @@ window.MF_DATA = {
   ],
   "news": [],
   "logo": "logo.png",
-  "videos": [],
+  "videos": [
+    {
+      "title": "vidéo 1",
+      "file": "media/0826.mp4"
+    },
+    {
+      "title": "vidéo 2",
+      "file": "media/lawdy_1_compresse.mp4"
+    }
+  ],
   "bio": "",
   "bioPhoto": "",
   "social": {
